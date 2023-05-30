@@ -7,4 +7,5 @@ public class manager extends user{
         return null;
     }
     // hi
+    // hi hi
 }
